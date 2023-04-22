@@ -16,7 +16,7 @@ jobs:
       run: |
         pip3 install in_place
         python autoupdate.py
-        git config --global user.name 'nyfair'
-        git config --global user.email 'nyfair2012@gmail.com'
+        git config --global user.name 'pinximei'
+        git config --global user.email 'meipinxi22@163.com'
         git commit -am "Automate" || echo "nothing to update"
         git push
