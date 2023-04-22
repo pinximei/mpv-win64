@@ -1,4 +1,4 @@
-name: batch-bleeding_edge-weekly
+name: package
 
 on:
   workflow_dispatch:
